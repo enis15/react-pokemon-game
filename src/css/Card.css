@@ -1,0 +1,34 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+h3 {
+  text-align: center;
+  font-weight: normal;
+}
+
+.card {
+  border: 3px solid white;
+  background-color: white;
+  height: 300px;
+  width: 220px;
+  max-width: 240px;
+  max-height: 310px;
+  display: inline-block;
+  margin-left: 4%;
+  margin-right: 4%;
+  box-shadow: 4px 4px 2px 1px rgba(0, 0, 255, 0.2);
+}
+
+img {
+  margin-left: 2px;
+}
+
+p {
+  padding-top: 0.2em;
+  padding-bottom: 0;
+  padding-top: 0.2;
+  margin: 0px 7px;
+  text-align: center;
+  font-size: 14px;
+}
